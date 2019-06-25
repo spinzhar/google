@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css","Accordion.css"],"names":[],"mappings":"AAAA,iBACE,iBAAkB,CAClB,UAAW,CACX,WACF,CCFA,iCACE,iBACF","file":"main.fa86bf50.chunk.css","sourcesContent":[".App {\n  position: absolute;\n  right: 55px;\n  width: 300px;\n}\n",".Accordion {\n}\n.Accordion img {\n  margin: 0 10px 0 0;\n}\n"]}
